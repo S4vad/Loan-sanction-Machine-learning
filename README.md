@@ -1,2 +1,1 @@
-# Loan-sanction-Machine-learning
-LogisticRegressionclassifier-Machine Learning
+Predict Loan approve or not using supervised machine learning algorithm Logistic Regression classification,
